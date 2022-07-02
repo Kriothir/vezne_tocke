@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\bin\Debug\GIS_Vaja_3.exe.config
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\bin\Debug\GIS_Vaja_3.exe
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\bin\Debug\GIS_Vaja_3.pdb
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.Form1.resources
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.Properties.Resources.resources
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.exe
+C:\Users\Admin\source\repos\GIS_Vaja_3\GIS_Vaja_3\obj\Debug\GIS_Vaja_3.pdb
